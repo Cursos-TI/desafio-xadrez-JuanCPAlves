@@ -41,7 +41,7 @@ int main() {
     int i;
     int j = 0;
 
-
+    // Movimentos do cavalo
     for (i = 0; i <= 2; i++)
     {
         while (j < 2)
