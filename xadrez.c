@@ -37,6 +37,29 @@ int main() {
     } while (rainha < 8);
 
     printf("\n");
+
+    int i;
+    int j = 0;
+
+
+    for (i = 0; i <= 2; i++)
+    {
+        while (j < 2)
+        {
+            printf("Cavalo: Baixo\n");
+            j++;
+        }
+
+        if (i = 2)
+        {
+            printf("Cavalo: Esquerda\n");
+        }
+
+    }
+    
+
+    printf("\n");
+    
     
 
     return 0;
